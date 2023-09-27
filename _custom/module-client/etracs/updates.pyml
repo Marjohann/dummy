@@ -1,0 +1,13 @@
+app:
+
+   env:
+
+   modules:
+      - { order: 50, version: 1.03, file: "modules/custom/etracs/gov-lgu-catig-report.jar"  }
+      - { order: 50, version: 1.06, file: "modules/custom/etracs/gov-lgu-catig-logo.jar"  }
+      - { order: 49, version: 1.21, file: "modules/custom/etracs/gov-lgu-gh-recibo.jar"  }
+      - { order: 48, version: 1.14, file: "modules/custom/etracs/gov-lgu-gh-rdaily.jar"  }
+      - { order: 47, version: 1.17, file: "modules/custom/etracs/gov-lgu-gh-af56.jar"  }
+      - { order: 46, version: 1.06, file: "modules/custom/etracs/gov-lgu-gh-bp.jar"  }
+	 
+	 
